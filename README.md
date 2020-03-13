@@ -1,4 +1,4 @@
-Almacén de productos
+##Almacén de productos
 
 
 Se trata de llevar a cabo una organización de un almacén de productos indicando las entradas y salidas de los mismos así como su precio y fecha de caducidad y el tipo de producto que se trata. 
