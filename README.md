@@ -1,7 +1,5 @@
-# Título del trabajo
-Almacén de productos 
+Almacén de productos
 
-Descripción breve del proyecto a realizar (2-3 frases).
 
 Se trata de llevar a cabo una organización de un almacén de productos indicando las entradas y salidas de los mismos así como su precio y fecha de caducidad y el tipo de producto que se trata. 
 
