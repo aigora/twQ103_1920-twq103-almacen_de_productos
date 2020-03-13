@@ -1,11 +1,14 @@
 # Título del trabajo
+Almacén de productos 
 
 Descripción breve del proyecto a realizar (2-3 frases).
 
+Se trata de llevar a cabo una organización de un almacén de productos indicando las entradas y salidas de los mismos así como su precio y fecha de caducidad y el tipo de producto que se trata. 
+
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Wasima Simouh Majid, Guisella Barroso Yovera, WasimaSimouh,Guisella.
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Implementar un programa para llevar a cabo los conceptos estudiados en clase.
