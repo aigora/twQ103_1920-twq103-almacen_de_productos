@@ -1,0 +1,6 @@
+Clara     Lago       Mujer     24     clara_lago@gmail.es       651779821
+Hugo      Rivera     Hombre    32     hugo_rivera@gmail.es      687411589
+Sandra    Rosell     Mujer     27     sandara_rosell@gmail.es   674194779
+Adrián    Martinez   Hombre    36     adrian_martinez@gmail.es  697458405
+Marta     Palazón    Mujer     21     marta_palazon@gmail.es    651487840
+Óscar     Herreras   Hombre    23     oscar_herreras@gmail.es   605874512
